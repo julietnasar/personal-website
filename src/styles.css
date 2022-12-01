@@ -2,3 +2,10 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.proj-tile {
+  background-color: darkgoldenrod;
+  width: 20%;
+  height: 200px;
+  border-color: darkgray;
+}
